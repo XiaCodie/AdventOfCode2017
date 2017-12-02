@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AdventOfCode, day 1", "ConsoleApplication1\AdventOfCode, day 1.fsproj", "{2BFB8F3C-D3A2-46E0-927A-8B8350237911}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Tutorial1", "..\..\..\Visual Studio 2015\Projects\Tutorial1\Tutorial1\Tutorial1.fsproj", "{B37AA07A-9CA4-406A-91C0-B9F94228AE24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BFB8F3C-D3A2-46E0-927A-8B8350237911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BFB8F3C-D3A2-46E0-927A-8B8350237911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BFB8F3C-D3A2-46E0-927A-8B8350237911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BFB8F3C-D3A2-46E0-927A-8B8350237911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B37AA07A-9CA4-406A-91C0-B9F94228AE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37AA07A-9CA4-406A-91C0-B9F94228AE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37AA07A-9CA4-406A-91C0-B9F94228AE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37AA07A-9CA4-406A-91C0-B9F94228AE24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
